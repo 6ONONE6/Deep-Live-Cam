@@ -10,12 +10,17 @@ tf_env/
 *.png
 *.mp4
 *.mkv
+ffmpeg.exe
+ffprobe.exe
 
 .tmp/
 temp/
 .venv/
 venv/
 env/
+dist/
+build/
+packaging/
 workflow/
 gfpgan/
 models/inswapper_128.onnx
